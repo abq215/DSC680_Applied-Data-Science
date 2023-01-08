@@ -1,6 +1,6 @@
-<h1>Hi, My name is Abdul Basit! <br/><a href="https://github.com/abq215">Data Science Enthusiast</a>, <a href="https://www.linkedin.com/in/abdul-basit-b67b28a/">Enabling Growth in 5G Technology</a>, ML/AI Analyst</a></h1>
+<h1>Hi, I'm Abdul Basit. I am currently working as Radio Frequency Design Engineer in the Data Integrity Team of Verizon Wireless <br/><a href="https://github.com/abq215">Data Science Enthusiast</a>, <a href="https://www.linkedin.com/in/abdul-basit-b67b28a/">Enabling Growth in 5G Technology</a>, <a href="https://github.com/abq215/DSC680_BasitAbdul.github.io">AI/ML Philomath</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Exploratory Data Analysis (EDA) Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
